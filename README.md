@@ -1,5 +1,5 @@
 # EllenWhelan.github.io
-This repository contains the HTML code for my portfolio website hosted with GitHub Pages. 
+This repository contains the HTML code for my portfolio website hosted with GitHub Pages. It can be viewed [here](https://ellenwhelan.github.io/).
 
 The HTML code is a template from [HTML5UP](https://html5up.net/) that has been customised to display my contact information and recent projects. 
 
